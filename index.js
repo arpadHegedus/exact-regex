@@ -3,6 +3,6 @@ module.exports = (val, regex) => {
     val = val.trim();
     let matches = val.match(regex);
     if(!matches) { return false; }
-    if(matches[0] !== val) { return false; }
+    if(matches.indexOf(val) === -1) { return false; }
     return true;
 }
