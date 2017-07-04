@@ -1,5 +1,3 @@
-#exact-regex
-
 Check if a string exactly abides a regular expression
 
 ## Installation
