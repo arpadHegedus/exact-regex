@@ -1,7 +1,7 @@
 {
   "name": "exact-regex",
   "description": "Check if a string exactly abides a regular expression",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": {
     "name": "Arpad Hegedus",
     "email": "hegedus.arpad@gmail.com",
@@ -16,9 +16,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/hegedusarpad/exact-regex"
+    "url": "git+https://github.com/arpadHegedus/exact-regex.git"
   },
   "bugs": {
-    "url": "https://bitbucket.org/hegedusarpad/exact-regex/issues"
+    "url": "https://github.com/arpadHegedus/exact-regex.git/issues"
   }
 }
